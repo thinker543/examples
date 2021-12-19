@@ -11,6 +11,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="instance" target="1.5" />
+      <module name="mangeDemo" target="6" />
     </bytecodeTargetLevel>
   </component>
 </project>
